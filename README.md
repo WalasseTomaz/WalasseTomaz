@@ -1,12 +1,8 @@
 ### Olá 👋, Bem-vindo ao meu perfil no GitHub
-#### 🎓 Acadêmico de Economia na UFPR | Previsão de Formatura: 2024 
-#### 🔍 Foco: Análise Econométrica | Data Science | Quantitative Finance
-
-![🎓 Acadêmico de Economia na UFPR | Previsão de Formatura: 2024 🔍 Foco: Análise Econométrica | Data Science | Quantitative Finance](https://i.pinimg.com/originals/be/69/18/be6918c5d9b9d3807c87f330656b8a41.jpg)
 
 📈 Apaixonado por explorar dados econômicos para revelar insights significativos e embasar decisões informadas. Minha jornada acadêmica na UFPR tem sido centrada na aplicação de técnicas avançadas de análise de dados para compreender os complexos fenômenos econômicos. Minha área de especialização inclui análise econométrica, data science e quantitative finance.
 
-Skills: Python / R / SAS / SQL / Azure / Excel / VBA / Power BI
+Skills: Econometria / Análise de Dados / Python
 
 - 📚 Experiência Acadêmica:      Professor Assistente (Monitor) de Estatística Econômica e Econometria na UFPR (2023)     Desenvolvimento de Estudos sobre Impactos de Políticas Tributárias no Bem-Estar de Consumo com Métodos Quantitativos 
 - 🔬 Atualmente, estou mergulhando em projetos que exploram os impactos das políticas tributárias no bem-estar do consumidor. Através da combinação de métodos quantitativos robustos e ferramentas de data science, busco contribuir para a base de conhecimento econômico e influenciar positivamente as políticas públicas. 
