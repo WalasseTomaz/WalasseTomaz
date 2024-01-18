@@ -9,12 +9,3 @@ Skills: Econometria / Análise de Dados / Python
 
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>]([https://www.linkedin.com/in/walasse-mickael-frutuoso-tomaz-2b5ba21a4/](https://www.linkedin.com/in/walasse-tomaz-2b5ba21a4/))
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=WalasseTomaz)](https://github.com/anuraghazra/github-readme-stats)
-
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=WalasseTomaz&show_icons=true)  
-
-![GitHub metrics](https://metrics.lecoq.io/WalasseTomaz)  
-
-![GitHub streak stats](https://streak-stats.demolab.com/?user=WalasseTomaz)  
-
