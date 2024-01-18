@@ -4,8 +4,8 @@
 
 Skills: Econometria / Análise de Dados / Python
 
-- 📚 Experiência Acadêmica:      Professor Assistente (Monitor) de Estatística Econômica e Econometria na UFPR (2023)     Desenvolvimento de Estudos sobre Impactos de Políticas Tributárias no Bem-Estar de Consumo com Métodos Quantitativos 
-- 📊 Habilidades:      Análise de Séries Temporais e Dados em Painel     Modelos Avançados de Regressão     Python | R | SQL | Azure | Excel     Estatística e Econometria Avançada 
+📚 Experiência Acadêmica:      Professor Assistente (Monitor) de Estatística Econômica e Econometria na UFPR (2023)     Desenvolvimento de Estudos sobre Impactos de Políticas Tributárias no Bem-Estar de Consumo com Métodos Quantitativos 
+📊 Habilidades:      Análise de Séries Temporais e Dados em Painel     Modelos Avançados de Regressão     Python | R | SQL | Azure | Excel     Estatística e Econometria Avançada 
 
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/WalasseTomaz)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/walasse-mickael-frutuoso-tomaz-2b5ba21a4/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/walassseee/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/walassseee)  
