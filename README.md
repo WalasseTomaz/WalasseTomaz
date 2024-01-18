@@ -5,7 +5,6 @@
 Skills: Econometria / Análise de Dados / Python
 
 - 📚 Experiência Acadêmica:      Professor Assistente (Monitor) de Estatística Econômica e Econometria na UFPR (2023)     Desenvolvimento de Estudos sobre Impactos de Políticas Tributárias no Bem-Estar de Consumo com Métodos Quantitativos 
-- 🔬 Atualmente, estou mergulhando em projetos que exploram os impactos das políticas tributárias no bem-estar do consumidor. Através da combinação de métodos quantitativos robustos e ferramentas de data science, busco contribuir para a base de conhecimento econômico e influenciar positivamente as políticas públicas. 
 - 📊 Habilidades:      Análise de Séries Temporais e Dados em Painel     Modelos Avançados de Regressão     Python | R | SQL | Azure | Excel     Estatística e Econometria Avançada 
 
 
