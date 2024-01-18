@@ -5,6 +5,7 @@
 Skills: Econometria | Análise de Dados | Python | R | SQL | Excel
 
 📚 Experiência Acadêmica: Professor Assistente (Monitor) de Estatística Econômica e Econometria na UFPR (2023)
+
 📊 Habilidades: Modelos de Análise de Séries Temporais e Dados em Painel | Modelos Avançados de Regressão Linar e Não Linear | Modelagem de Redes Neurais e Modelos de Aprendizado de Máquina.
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>]([https://www.linkedin.com/in/walasse-mickael-frutuoso-tomaz-2b5ba21a4/])
